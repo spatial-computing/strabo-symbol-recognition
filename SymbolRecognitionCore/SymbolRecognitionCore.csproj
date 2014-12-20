@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6506E08C-D4C6-4AD8-91BA-AFA5977FDE91}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SymbolRecognitionCore</RootNamespace>
+    <AssemblyName>SymbolRecognitionCore</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Emgu.CV">
+      <HintPath>..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\Emgu.CV.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.Util">
+      <HintPath>..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\Emgu.Util.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DrawMatches.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SymbolRecognitionWorker.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\cublas32_55.dll">
+      <Link>cublas32_55.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\cudart32_55.dll">
+      <Link>cudart32_55.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\cufft32_55.dll">
+      <Link>cufft32_55.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\cvextern.dll">
+      <Link>cvextern.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\nppc32_55.dll">
+      <Link>nppc32_55.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\nppi32_55.dll">
+      <Link>nppi32_55.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\npps32_55.dll">
+      <Link>npps32_55.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\OpenCL.dll">
+      <Link>OpenCL.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_bioinspired290.dll">
+      <Link>opencv_bioinspired290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_calib3d290.dll">
+      <Link>opencv_calib3d290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_contrib290.dll">
+      <Link>opencv_contrib290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_core290.dll">
+      <Link>opencv_core290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_cudev290.dll">
+      <Link>opencv_cudev290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_features2d290.dll">
+      <Link>opencv_features2d290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_ffmpeg290.dll">
+      <Link>opencv_ffmpeg290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_flann290.dll">
+      <Link>opencv_flann290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_gpu290.dll">
+      <Link>opencv_gpu290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_gpuarithm290.dll">
+      <Link>opencv_gpuarithm290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_gpubgsegm290.dll">
+      <Link>opencv_gpubgsegm290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_gpucodec290.dll">
+      <Link>opencv_gpucodec290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_gpufeatures2d290.dll">
+      <Link>opencv_gpufeatures2d290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_gpufilters290.dll">
+      <Link>opencv_gpufilters290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_gpuimgproc290.dll">
+      <Link>opencv_gpuimgproc290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_gpulegacy290.dll">
+      <Link>opencv_gpulegacy290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_gpuoptflow290.dll">
+      <Link>opencv_gpuoptflow290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_gpustereo290.dll">
+      <Link>opencv_gpustereo290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_gpuwarping290.dll">
+      <Link>opencv_gpuwarping290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_highgui290.dll">
+      <Link>opencv_highgui290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_imgproc290.dll">
+      <Link>opencv_imgproc290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_legacy290.dll">
+      <Link>opencv_legacy290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_ml290.dll">
+      <Link>opencv_ml290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_nonfree290.dll">
+      <Link>opencv_nonfree290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_objdetect290.dll">
+      <Link>opencv_objdetect290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_ocl290.dll">
+      <Link>opencv_ocl290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_optim290.dll">
+      <Link>opencv_optim290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_photo290.dll">
+      <Link>opencv_photo290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_softcascade290.dll">
+      <Link>opencv_softcascade290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_stitching290.dll">
+      <Link>opencv_stitching290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_superres290.dll">
+      <Link>opencv_superres290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_video290.dll">
+      <Link>opencv_video290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\..\..\..\..\Emgu\emgucv-windows-universal-cuda2.9.0.1922\bin\x86\opencv_videostab290.dll">
+      <Link>opencv_videostab290.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

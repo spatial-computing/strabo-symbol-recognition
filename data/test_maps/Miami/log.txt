@@ -1,0 +1,1440 @@
+Element Image: (160*70)
+Test Image:(1636*1752)
+
+
+
+Sub-image #0:
+	Loop #(0, 0)
+	SW1 location: (0, 0)
+
+	SW2 location: (9, 62)
+	Histogram score: 0.9987491]
+
+
+Sub-image #1:
+	Loop #(1, 0)
+	SW1 location: (160, 0)
+
+	SW2 location: (320, 69)
+	Histogram score: 0.9990937]
+
+
+Sub-image #2:
+	Loop #(2, 0)
+	SW1 location: (320, 0)
+
+	SW2 location: (332, 69)
+	Histogram score: 0.9993306]
+
+
+Sub-image #3:
+	Loop #(3, 0)
+	SW1 location: (480, 0)
+
+
+Sub-image #4:
+	Loop #(4, 0)
+	SW1 location: (640, 0)
+
+	SW2 location: (794, 16)
+	Histogram score: 0.9989913]
+
+
+Sub-image #5:
+	Loop #(5, 0)
+	SW1 location: (800, 0)
+
+
+Sub-image #6:
+	Loop #(6, 0)
+	SW1 location: (960, 0)
+
+	SW2 location: (991, 1)
+	Histogram score: 0.9993704]
+
+
+Sub-image #7:
+	Loop #(7, 0)
+	SW1 location: (1120, 0)
+
+
+Sub-image #8:
+	Loop #(8, 0)
+	SW1 location: (1280, 0)
+
+	SW2 location: (1318, 5)
+	Histogram score: 0.9997249]
+
+
+Sub-image #9:
+	Loop #(0, 1)
+	SW1 location: (0, 70)
+
+
+Sub-image #10:
+	Loop #(1, 1)
+	SW1 location: (160, 70)
+
+	SW2 location: (320, 70)
+	Histogram score: 0.9990937]
+
+
+Sub-image #11:
+	Loop #(2, 1)
+	SW1 location: (320, 70)
+
+	SW2 location: (332, 70)
+	Histogram score: 0.9993306]
+
+
+Sub-image #12:
+	Loop #(3, 1)
+	SW1 location: (480, 70)
+
+
+Sub-image #13:
+	Loop #(4, 1)
+	SW1 location: (640, 70)
+
+
+Sub-image #14:
+	Loop #(5, 1)
+	SW1 location: (800, 70)
+
+
+Sub-image #15:
+	Loop #(6, 1)
+	SW1 location: (960, 70)
+
+	SW2 location: (1120, 137)
+	Histogram score: 0.9990976]
+
+
+Sub-image #16:
+	Loop #(7, 1)
+	SW1 location: (1120, 70)
+
+	SW2 location: (1139, 137)
+	Histogram score: 0.9994848]
+
+
+Sub-image #17:
+	Loop #(8, 1)
+	SW1 location: (1280, 70)
+
+	SW2 location: (1398, 109)
+	Histogram score: 0.9993693]
+
+
+Sub-image #18:
+	Loop #(0, 2)
+	SW1 location: (0, 140)
+
+	SW2 location: (155, 186)
+	Histogram score: 0.9989512]
+
+
+Sub-image #19:
+	Loop #(1, 2)
+	SW1 location: (160, 140)
+
+	SW2 location: (160, 187)
+	Histogram score: 0.9987644]
+
+
+Sub-image #20:
+	Loop #(2, 2)
+	SW1 location: (320, 140)
+
+
+Sub-image #21:
+	Loop #(3, 2)
+	SW1 location: (480, 140)
+
+	SW2 location: (640, 210)
+	Histogram score: 0.9972055]
+
+
+Sub-image #22:
+	Loop #(4, 2)
+	SW1 location: (640, 140)
+
+	SW2 location: (689, 208)
+	Histogram score: 0.9992712]
+
+
+Sub-image #23:
+	Loop #(5, 2)
+	SW1 location: (800, 140)
+
+
+Sub-image #24:
+	Loop #(6, 2)
+	SW1 location: (960, 140)
+
+	SW2 location: (1120, 140)
+	Histogram score: 0.9990976]
+
+
+Sub-image #25:
+	Loop #(7, 2)
+	SW1 location: (1120, 140)
+
+	SW2 location: (1139, 140)
+	Histogram score: 0.9994848]
+
+
+Sub-image #26:
+	Loop #(8, 2)
+	SW1 location: (1280, 140)
+
+	SW2 location: (1305, 197)
+	Histogram score: 0.9995036]
+
+
+Sub-image #27:
+	Loop #(0, 3)
+	SW1 location: (0, 210)
+
+
+Sub-image #28:
+	Loop #(1, 3)
+	SW1 location: (160, 210)
+
+
+Sub-image #29:
+	Loop #(2, 3)
+	SW1 location: (320, 210)
+
+	SW2 location: (377, 255)
+	Histogram score: 0.9997652]
+
+
+Sub-image #30:
+	Loop #(3, 3)
+	SW1 location: (480, 210)
+
+	SW2 location: (640, 220)
+	Histogram score: 0.9975824]
+
+
+Sub-image #31:
+	Loop #(4, 3)
+	SW1 location: (640, 210)
+
+	SW2 location: (689, 210)
+	Histogram score: 0.9992462]
+
+
+Sub-image #32:
+	Loop #(5, 3)
+	SW1 location: (800, 210)
+
+
+Sub-image #33:
+	Loop #(6, 3)
+	SW1 location: (960, 210)
+
+
+Sub-image #34:
+	Loop #(7, 3)
+	SW1 location: (1120, 210)
+
+
+Sub-image #35:
+	Loop #(8, 3)
+	SW1 location: (1280, 210)
+
+	SW2 location: (1297, 219)
+	Histogram score: 0.9994327]
+
+
+Sub-image #36:
+	Loop #(0, 4)
+	SW1 location: (0, 280)
+
+	SW2 location: (9, 336)
+	Histogram score: 0.9995596]
+
+
+Sub-image #37:
+	Loop #(1, 4)
+	SW1 location: (160, 280)
+
+	SW2 location: (251, 350)
+	Histogram score: 0.9990504]
+
+
+Sub-image #38:
+	Loop #(2, 4)
+	SW1 location: (320, 280)
+
+
+Sub-image #39:
+	Loop #(3, 4)
+	SW1 location: (480, 280)
+
+	SW2 location: (597, 337)
+	Histogram score: 0.9993449]
+
+
+Sub-image #40:
+	Loop #(4, 4)
+	SW1 location: (640, 280)
+
+	SW2 location: (658, 318)
+	Histogram score: 0.9983137]
+
+
+Sub-image #41:
+	Loop #(5, 4)
+	SW1 location: (800, 280)
+
+
+Sub-image #42:
+	Loop #(6, 4)
+	SW1 location: (960, 280)
+
+	SW2 location: (1110, 305)
+	Histogram score: 0.9977329]
+
+
+Sub-image #43:
+	Loop #(7, 4)
+	SW1 location: (1120, 280)
+
+	SW2 location: (1198, 290)
+	Histogram score: 0.9992893]
+
+
+Sub-image #44:
+	Loop #(8, 4)
+	SW1 location: (1280, 280)
+
+	SW2 location: (1280, 287)
+	Histogram score: 0.996983]
+
+
+Sub-image #45:
+	Loop #(0, 5)
+	SW1 location: (0, 350)
+
+
+Sub-image #46:
+	Loop #(1, 5)
+	SW1 location: (160, 350)
+
+
+Sub-image #47:
+	Loop #(2, 5)
+	SW1 location: (320, 350)
+
+
+Sub-image #48:
+	Loop #(3, 5)
+	SW1 location: (480, 350)
+
+	SW2 location: (480, 415)
+	Histogram score: 0.9985566]
+
+
+Sub-image #49:
+	Loop #(4, 5)
+	SW1 location: (640, 350)
+
+	SW2 location: (722, 420)
+	Histogram score: 0.9975903]
+
+
+Sub-image #50:
+	Loop #(5, 5)
+	SW1 location: (800, 350)
+
+
+Sub-image #51:
+	Loop #(6, 5)
+	SW1 location: (960, 350)
+
+	SW2 location: (1120, 388)
+	Histogram score: 0.9988832]
+
+
+Sub-image #52:
+	Loop #(7, 5)
+	SW1 location: (1120, 350)
+
+	SW2 location: (1146, 388)
+	Histogram score: 0.999575]
+
+
+Sub-image #53:
+	Loop #(8, 5)
+	SW1 location: (1280, 350)
+
+
+Sub-image #54:
+	Loop #(0, 6)
+	SW1 location: (0, 420)
+
+	SW2 location: (35, 472)
+	Histogram score: 0.9997922]
+
+
+Sub-image #55:
+	Loop #(1, 6)
+	SW1 location: (160, 420)
+
+
+Sub-image #56:
+	Loop #(2, 6)
+	SW1 location: (320, 420)
+
+	SW2 location: (440, 429)
+	Histogram score: 0.9996239]
+
+
+Sub-image #57:
+	Loop #(3, 6)
+	SW1 location: (480, 420)
+
+
+Sub-image #58:
+	Loop #(4, 6)
+	SW1 location: (640, 420)
+
+
+Sub-image #59:
+	Loop #(5, 6)
+	SW1 location: (800, 420)
+
+
+Sub-image #60:
+	Loop #(6, 6)
+	SW1 location: (960, 420)
+
+	SW2 location: (960, 440)
+	Histogram score: 0.9991748]
+
+
+Sub-image #61:
+	Loop #(7, 6)
+	SW1 location: (1120, 420)
+
+
+Sub-image #62:
+	Loop #(8, 6)
+	SW1 location: (1280, 420)
+
+	SW2 location: (1308, 479)
+	Histogram score: 0.9993289]
+
+
+Sub-image #63:
+	Loop #(0, 7)
+	SW1 location: (0, 490)
+
+	SW2 location: (1, 490)
+	Histogram score: 0.9982142]
+
+
+Sub-image #64:
+	Loop #(1, 7)
+	SW1 location: (160, 490)
+
+	SW2 location: (280, 538)
+	Histogram score: 0.9996181]
+
+
+Sub-image #65:
+	Loop #(2, 7)
+	SW1 location: (320, 490)
+
+	SW2 location: (320, 538)
+	Histogram score: 0.999581]
+
+
+Sub-image #66:
+	Loop #(3, 7)
+	SW1 location: (480, 490)
+
+
+Sub-image #67:
+	Loop #(4, 7)
+	SW1 location: (640, 490)
+
+	SW2 location: (640, 522)
+	Histogram score: 0.9985209]
+
+
+Sub-image #68:
+	Loop #(5, 7)
+	SW1 location: (800, 490)
+
+
+Sub-image #69:
+	Loop #(6, 7)
+	SW1 location: (960, 490)
+
+	SW2 location: (1058, 507)
+	Histogram score: 0.999399]
+
+
+Sub-image #70:
+	Loop #(7, 7)
+	SW1 location: (1120, 490)
+
+
+Sub-image #71:
+	Loop #(8, 7)
+	SW1 location: (1280, 490)
+
+
+Sub-image #72:
+	Loop #(0, 8)
+	SW1 location: (0, 560)
+
+	SW2 location: (72, 580)
+	Histogram score: 0.9994097]
+
+
+Sub-image #73:
+	Loop #(1, 8)
+	SW1 location: (160, 560)
+
+	SW2 location: (301, 560)
+	Histogram score: 0.9993717]
+
+
+Sub-image #74:
+	Loop #(2, 8)
+	SW1 location: (320, 560)
+
+	SW2 location: (320, 560)
+	Histogram score: 0.998998]
+
+
+Sub-image #75:
+	Loop #(3, 8)
+	SW1 location: (480, 560)
+
+
+Sub-image #76:
+	Loop #(4, 8)
+	SW1 location: (640, 560)
+
+	SW2 location: (682, 622)
+	Histogram score: 0.9985766]
+
+
+Sub-image #77:
+	Loop #(5, 8)
+	SW1 location: (800, 560)
+
+
+Sub-image #78:
+	Loop #(6, 8)
+	SW1 location: (960, 560)
+
+	SW2 location: (960, 580)
+	Histogram score: 0.9953632]
+
+
+Sub-image #79:
+	Loop #(7, 8)
+	SW1 location: (1120, 560)
+
+
+Sub-image #80:
+	Loop #(8, 8)
+	SW1 location: (1280, 560)
+
+	SW2 location: (1417, 598)
+	Histogram score: 0.999621]
+
+
+Sub-image #81:
+	Loop #(0, 9)
+	SW1 location: (0, 630)
+
+	SW2 location: (0, 697)
+	Histogram score: 0.997844]
+
+
+Sub-image #82:
+	Loop #(1, 9)
+	SW1 location: (160, 630)
+
+	SW2 location: (223, 654)
+	Histogram score: 0.9991736]
+
+
+Sub-image #83:
+	Loop #(2, 9)
+	SW1 location: (320, 630)
+
+	SW2 location: (446, 640)
+	Histogram score: 0.9991689]
+
+
+Sub-image #84:
+	Loop #(3, 9)
+	SW1 location: (480, 630)
+
+	SW2 location: (480, 640)
+	Histogram score: 0.9978371]
+
+
+Sub-image #85:
+	Loop #(4, 9)
+	SW1 location: (640, 630)
+
+	SW2 location: (682, 630)
+	Histogram score: 0.9985766]
+
+
+Sub-image #86:
+	Loop #(5, 9)
+	SW1 location: (800, 630)
+
+
+Sub-image #87:
+	Loop #(6, 9)
+	SW1 location: (960, 630)
+
+	SW2 location: (1025, 694)
+	Histogram score: 0.9994997]
+
+
+Sub-image #88:
+	Loop #(7, 9)
+	SW1 location: (1120, 630)
+
+
+Sub-image #89:
+	Loop #(8, 9)
+	SW1 location: (1280, 630)
+
+
+Sub-image #90:
+	Loop #(0, 10)
+	SW1 location: (0, 700)
+
+	SW2 location: (0, 700)
+	Histogram score: 0.9978294]
+
+
+Sub-image #91:
+	Loop #(1, 10)
+	SW1 location: (160, 700)
+
+	SW2 location: (160, 770)
+	Histogram score: 0.9976174]
+
+
+Sub-image #92:
+	Loop #(2, 10)
+	SW1 location: (320, 700)
+
+	SW2 location: (402, 756)
+	Histogram score: 0.999652]
+
+
+Sub-image #93:
+	Loop #(3, 10)
+	SW1 location: (480, 700)
+
+	SW2 location: (594, 770)
+	Histogram score: 0.9995807]
+
+
+Sub-image #94:
+	Loop #(4, 10)
+	SW1 location: (640, 700)
+
+	SW2 location: (770, 731)
+	Histogram score: 0.999671]
+
+
+Sub-image #95:
+	Loop #(5, 10)
+	SW1 location: (800, 700)
+
+
+Sub-image #96:
+	Loop #(6, 10)
+	SW1 location: (960, 700)
+
+	SW2 location: (1002, 709)
+	Histogram score: 0.9995398]
+
+
+Sub-image #97:
+	Loop #(7, 10)
+	SW1 location: (1120, 700)
+
+	SW2 location: (1188, 748)
+	Histogram score: 0.9992269]
+
+
+Sub-image #98:
+	Loop #(8, 10)
+	SW1 location: (1280, 700)
+
+
+Sub-image #99:
+	Loop #(0, 11)
+	SW1 location: (0, 770)
+
+	SW2 location: (150, 776)
+	Histogram score: 0.9985835]
+
+
+Sub-image #100:
+	Loop #(1, 11)
+	SW1 location: (160, 770)
+
+	SW2 location: (160, 778)
+	Histogram score: 0.9985]
+
+
+Sub-image #101:
+	Loop #(2, 11)
+	SW1 location: (320, 770)
+
+
+Sub-image #102:
+	Loop #(3, 11)
+	SW1 location: (480, 770)
+
+
+Sub-image #103:
+	Loop #(4, 11)
+	SW1 location: (640, 770)
+
+
+Sub-image #104:
+	Loop #(5, 11)
+	SW1 location: (800, 770)
+
+	SW2 location: (960, 820)
+	Histogram score: 0.999427]
+
+
+Sub-image #105:
+	Loop #(6, 11)
+	SW1 location: (960, 770)
+
+	SW2 location: (988, 820)
+	Histogram score: 1]
+
+
+Sub-image #106:
+	Loop #(7, 11)
+	SW1 location: (1120, 770)
+
+	SW2 location: (1188, 770)
+	Histogram score: 0.9990193]
+
+
+Sub-image #107:
+	Loop #(8, 11)
+	SW1 location: (1280, 770)
+
+	SW2 location: (1440, 840)
+	Histogram score: 0.9974962]
+
+
+Sub-image #108:
+	Loop #(0, 12)
+	SW1 location: (0, 840)
+
+
+Sub-image #109:
+	Loop #(1, 12)
+	SW1 location: (160, 840)
+
+
+Sub-image #110:
+	Loop #(2, 12)
+	SW1 location: (320, 840)
+
+	SW2 location: (451, 852)
+	Histogram score: 0.9993113]
+
+
+Sub-image #111:
+	Loop #(3, 12)
+	SW1 location: (480, 840)
+
+	SW2 location: (483, 852)
+	Histogram score: 0.9993144]
+
+
+Sub-image #112:
+	Loop #(4, 12)
+	SW1 location: (640, 840)
+
+	SW2 location: (765, 870)
+	Histogram score: 0.9994462]
+
+
+Sub-image #113:
+	Loop #(5, 12)
+	SW1 location: (800, 840)
+
+	SW2 location: (800, 870)
+	Histogram score: 0.9986541]
+
+
+Sub-image #114:
+	Loop #(6, 12)
+	SW1 location: (960, 840)
+
+	SW2 location: (988, 840)
+	Histogram score: 0.99968]
+
+
+Sub-image #115:
+	Loop #(7, 12)
+	SW1 location: (1120, 840)
+
+
+Sub-image #116:
+	Loop #(8, 12)
+	SW1 location: (1280, 840)
+
+
+Sub-image #117:
+	Loop #(0, 13)
+	SW1 location: (0, 910)
+
+
+Sub-image #118:
+	Loop #(1, 13)
+	SW1 location: (160, 910)
+
+	SW2 location: (175, 910)
+	Histogram score: 0.9990439]
+
+
+Sub-image #119:
+	Loop #(2, 13)
+	SW1 location: (320, 910)
+
+
+Sub-image #120:
+	Loop #(3, 13)
+	SW1 location: (480, 910)
+
+
+Sub-image #121:
+	Loop #(4, 13)
+	SW1 location: (640, 910)
+
+
+Sub-image #122:
+	Loop #(5, 13)
+	SW1 location: (800, 910)
+
+	SW2 location: (920, 944)
+	Histogram score: 0.9995843]
+
+
+Sub-image #123:
+	Loop #(6, 13)
+	SW1 location: (960, 910)
+
+	SW2 location: (960, 947)
+	Histogram score: 0.9985167]
+
+
+Sub-image #124:
+	Loop #(7, 13)
+	SW1 location: (1120, 910)
+
+	SW2 location: (1150, 920)
+	Histogram score: 0.999801]
+
+
+Sub-image #125:
+	Loop #(8, 13)
+	SW1 location: (1280, 910)
+
+	SW2 location: (1420, 969)
+	Histogram score: 0.999687]
+
+
+Sub-image #126:
+	Loop #(0, 14)
+	SW1 location: (0, 980)
+
+	SW2 location: (28, 1049)
+	Histogram score: 0.9990375]
+
+
+Sub-image #127:
+	Loop #(1, 14)
+	SW1 location: (160, 980)
+
+	SW2 location: (274, 998)
+	Histogram score: 0.9988189]
+
+
+Sub-image #128:
+	Loop #(2, 14)
+	SW1 location: (320, 980)
+
+
+Sub-image #129:
+	Loop #(3, 14)
+	SW1 location: (480, 980)
+
+
+Sub-image #130:
+	Loop #(4, 14)
+	SW1 location: (640, 980)
+
+	SW2 location: (721, 1013)
+	Histogram score: 0.9989157]
+
+
+Sub-image #131:
+	Loop #(5, 14)
+	SW1 location: (800, 980)
+
+	SW2 location: (916, 980)
+	Histogram score: 0.9972373]
+
+
+Sub-image #132:
+	Loop #(6, 14)
+	SW1 location: (960, 980)
+
+	SW2 location: (1043, 1030)
+	Histogram score: 0.9997278]
+
+
+Sub-image #133:
+	Loop #(7, 14)
+	SW1 location: (1120, 980)
+
+	SW2 location: (1240, 1050)
+	Histogram score: 0.9993175]
+
+
+Sub-image #134:
+	Loop #(8, 14)
+	SW1 location: (1280, 980)
+
+	SW2 location: (1420, 987)
+	Histogram score: 0.9996957]
+
+
+Sub-image #135:
+	Loop #(0, 15)
+	SW1 location: (0, 1050)
+
+	SW2 location: (86, 1081)
+	Histogram score: 0.9995645]
+
+
+Sub-image #136:
+	Loop #(1, 15)
+	SW1 location: (160, 1050)
+
+	SW2 location: (160, 1090)
+	Histogram score: 0.9938068]
+
+
+Sub-image #137:
+	Loop #(2, 15)
+	SW1 location: (320, 1050)
+
+	SW2 location: (480, 1101)
+	Histogram score: 0.9982657]
+
+
+Sub-image #138:
+	Loop #(3, 15)
+	SW1 location: (480, 1050)
+
+	SW2 location: (535, 1099)
+	Histogram score: 0.9995714]
+
+
+Sub-image #139:
+	Loop #(4, 15)
+	SW1 location: (640, 1050)
+
+	SW2 location: (731, 1050)
+	Histogram score: 0.9984642]
+
+
+Sub-image #140:
+	Loop #(5, 15)
+	SW1 location: (800, 1050)
+
+	SW2 location: (863, 1120)
+	Histogram score: 0.9978598]
+
+
+Sub-image #141:
+	Loop #(6, 15)
+	SW1 location: (960, 1050)
+
+
+Sub-image #142:
+	Loop #(7, 15)
+	SW1 location: (1120, 1050)
+
+
+Sub-image #143:
+	Loop #(8, 15)
+	SW1 location: (1280, 1050)
+
+	SW2 location: (1280, 1050)
+	Histogram score: 0.999238]
+
+
+Sub-image #144:
+	Loop #(0, 16)
+	SW1 location: (0, 1120)
+
+
+Sub-image #145:
+	Loop #(1, 16)
+	SW1 location: (160, 1120)
+
+	SW2 location: (315, 1143)
+	Histogram score: 0.9995923]
+
+
+Sub-image #146:
+	Loop #(2, 16)
+	SW1 location: (320, 1120)
+
+	SW2 location: (320, 1162)
+	Histogram score: 0.9995688]
+
+
+Sub-image #147:
+	Loop #(3, 16)
+	SW1 location: (480, 1120)
+
+
+Sub-image #148:
+	Loop #(4, 16)
+	SW1 location: (640, 1120)
+
+
+Sub-image #149:
+	Loop #(5, 16)
+	SW1 location: (800, 1120)
+
+	SW2 location: (863, 1130)
+	Histogram score: 0.9993836]
+
+
+Sub-image #150:
+	Loop #(6, 16)
+	SW1 location: (960, 1120)
+
+	SW2 location: (1025, 1188)
+	Histogram score: 0.9987373]
+
+
+Sub-image #151:
+	Loop #(7, 16)
+	SW1 location: (1120, 1120)
+
+
+Sub-image #152:
+	Loop #(8, 16)
+	SW1 location: (1280, 1120)
+
+	SW2 location: (1358, 1182)
+	Histogram score: 0.9993739]
+
+
+Sub-image #153:
+	Loop #(0, 17)
+	SW1 location: (0, 1190)
+
+	SW2 location: (134, 1200)
+	Histogram score: 0.9993898]
+
+
+Sub-image #154:
+	Loop #(1, 17)
+	SW1 location: (160, 1190)
+
+
+Sub-image #155:
+	Loop #(2, 17)
+	SW1 location: (320, 1190)
+
+	SW2 location: (366, 1243)
+	Histogram score: 0.9956552]
+
+
+Sub-image #156:
+	Loop #(3, 17)
+	SW1 location: (480, 1190)
+
+
+Sub-image #157:
+	Loop #(4, 17)
+	SW1 location: (640, 1190)
+
+	SW2 location: (729, 1210)
+	Histogram score: 0.9995471]
+
+
+Sub-image #158:
+	Loop #(5, 17)
+	SW1 location: (800, 1190)
+
+	SW2 location: (960, 1196)
+	Histogram score: 0.9966484]
+
+
+Sub-image #159:
+	Loop #(6, 17)
+	SW1 location: (960, 1190)
+
+	SW2 location: (1043, 1197)
+	Histogram score: 0.9994144]
+
+
+Sub-image #160:
+	Loop #(7, 17)
+	SW1 location: (1120, 1190)
+
+
+Sub-image #161:
+	Loop #(8, 17)
+	SW1 location: (1280, 1190)
+
+	SW2 location: (1369, 1200)
+	Histogram score: 0.9993718]
+
+
+Sub-image #162:
+	Loop #(0, 18)
+	SW1 location: (0, 1260)
+
+	SW2 location: (2, 1297)
+	Histogram score: 0.9976902]
+
+
+Sub-image #163:
+	Loop #(1, 18)
+	SW1 location: (160, 1260)
+
+	SW2 location: (301, 1292)
+	Histogram score: 0.9982501]
+
+
+Sub-image #164:
+	Loop #(2, 18)
+	SW1 location: (320, 1260)
+
+	SW2 location: (480, 1316)
+	Histogram score: 0.9993387]
+
+
+Sub-image #165:
+	Loop #(3, 18)
+	SW1 location: (480, 1260)
+
+
+Sub-image #166:
+	Loop #(4, 18)
+	SW1 location: (640, 1260)
+
+
+Sub-image #167:
+	Loop #(5, 18)
+	SW1 location: (800, 1260)
+
+
+Sub-image #168:
+	Loop #(6, 18)
+	SW1 location: (960, 1260)
+
+	SW2 location: (1018, 1330)
+	Histogram score: 0.9996482]
+
+
+Sub-image #169:
+	Loop #(7, 18)
+	SW1 location: (1120, 1260)
+
+
+Sub-image #170:
+	Loop #(8, 18)
+	SW1 location: (1280, 1260)
+
+
+Sub-image #171:
+	Loop #(0, 19)
+	SW1 location: (0, 1330)
+
+
+Sub-image #172:
+	Loop #(1, 19)
+	SW1 location: (160, 1330)
+
+	SW2 location: (229, 1381)
+	Histogram score: 0.9993893]
+
+
+Sub-image #173:
+	Loop #(2, 19)
+	SW1 location: (320, 1330)
+
+
+Sub-image #174:
+	Loop #(3, 19)
+	SW1 location: (480, 1330)
+
+
+Sub-image #175:
+	Loop #(4, 19)
+	SW1 location: (640, 1330)
+
+	SW2 location: (726, 1347)
+	Histogram score: 0.9995687]
+
+
+Sub-image #176:
+	Loop #(5, 19)
+	SW1 location: (800, 1330)
+
+
+Sub-image #177:
+	Loop #(6, 19)
+	SW1 location: (960, 1330)
+
+	SW2 location: (1018, 1330)
+	Histogram score: 0.9996482]
+
+
+Sub-image #178:
+	Loop #(7, 19)
+	SW1 location: (1120, 1330)
+
+
+Sub-image #179:
+	Loop #(8, 19)
+	SW1 location: (1280, 1330)
+
+	SW2 location: (1309, 1383)
+	Histogram score: 0.9994444]
+
+
+Sub-image #180:
+	Loop #(0, 20)
+	SW1 location: (0, 1400)
+
+	SW2 location: (52, 1470)
+	Histogram score: 0.9985244]
+
+
+Sub-image #181:
+	Loop #(1, 20)
+	SW1 location: (160, 1400)
+
+
+Sub-image #182:
+	Loop #(2, 20)
+	SW1 location: (320, 1400)
+
+	SW2 location: (463, 1416)
+	Histogram score: 0.998495]
+
+
+Sub-image #183:
+	Loop #(3, 20)
+	SW1 location: (480, 1400)
+
+	SW2 location: (640, 1434)
+	Histogram score: 0.9982367]
+
+
+Sub-image #184:
+	Loop #(4, 20)
+	SW1 location: (640, 1400)
+
+	SW2 location: (676, 1434)
+	Histogram score: 0.9990826]
+
+
+Sub-image #185:
+	Loop #(5, 20)
+	SW1 location: (800, 1400)
+
+	SW2 location: (937, 1470)
+	Histogram score: 0.9988602]
+
+
+Sub-image #186:
+	Loop #(6, 20)
+	SW1 location: (960, 1400)
+
+	SW2 location: (1111, 1404)
+	Histogram score: 0.9989851]
+
+
+Sub-image #187:
+	Loop #(7, 20)
+	SW1 location: (1120, 1400)
+
+	SW2 location: (1120, 1404)
+	Histogram score: 0.9989771]
+
+
+Sub-image #188:
+	Loop #(8, 20)
+	SW1 location: (1280, 1400)
+
+
+Sub-image #189:
+	Loop #(0, 21)
+	SW1 location: (0, 1470)
+
+	SW2 location: (53, 1488)
+	Histogram score: 0.9989938]
+
+
+Sub-image #190:
+	Loop #(1, 21)
+	SW1 location: (160, 1470)
+
+	SW2 location: (241, 1527)
+	Histogram score: 0.9987088]
+
+
+Sub-image #191:
+	Loop #(2, 21)
+	SW1 location: (320, 1470)
+
+	SW2 location: (480, 1540)
+	Histogram score: 0.9979684]
+
+
+Sub-image #192:
+	Loop #(3, 21)
+	SW1 location: (480, 1470)
+
+	SW2 location: (480, 1540)
+	Histogram score: 0.9979684]
+
+
+Sub-image #193:
+	Loop #(4, 21)
+	SW1 location: (640, 1470)
+
+
+Sub-image #194:
+	Loop #(5, 21)
+	SW1 location: (800, 1470)
+
+	SW2 location: (944, 1476)
+	Histogram score: 0.9993991]
+
+
+Sub-image #195:
+	Loop #(6, 21)
+	SW1 location: (960, 1470)
+
+	SW2 location: (960, 1485)
+	Histogram score: 0.9992928]
+
+
+Sub-image #196:
+	Loop #(7, 21)
+	SW1 location: (1120, 1470)
+
+	SW2 location: (1248, 1494)
+	Histogram score: 0.9995095]
+
+
+Sub-image #197:
+	Loop #(8, 21)
+	SW1 location: (1280, 1470)
+
+	SW2 location: (1280, 1496)
+	Histogram score: 0.9990743]
+
+
+Sub-image #198:
+	Loop #(0, 22)
+	SW1 location: (0, 1540)
+
+
+Sub-image #199:
+	Loop #(1, 22)
+	SW1 location: (160, 1540)
+
+	SW2 location: (241, 1540)
+	Histogram score: 0.9977116]
+
+
+Sub-image #200:
+	Loop #(2, 22)
+	SW1 location: (320, 1540)
+
+	SW2 location: (480, 1543)
+	Histogram score: 0.9983504]
+
+
+Sub-image #201:
+	Loop #(3, 22)
+	SW1 location: (480, 1540)
+
+	SW2 location: (481, 1543)
+	Histogram score: 0.9983527]
+
+
+Sub-image #202:
+	Loop #(4, 22)
+	SW1 location: (640, 1540)
+
+	SW2 location: (691, 1541)
+	Histogram score: 0.9953319]
+
+
+Sub-image #203:
+	Loop #(5, 22)
+	SW1 location: (800, 1540)
+
+
+Sub-image #204:
+	Loop #(6, 22)
+	SW1 location: (960, 1540)
+
+	SW2 location: (1061, 1610)
+	Histogram score: 0.9972435]
+
+
+Sub-image #205:
+	Loop #(7, 22)
+	SW1 location: (1120, 1540)
+
+	SW2 location: (1220, 1540)
+	Histogram score: 0.9931731]
+
+
+Sub-image #206:
+	Loop #(8, 22)
+	SW1 location: (1280, 1540)
+The count before consolidation: 131
+The count of al2: 131
+The count of hash: 84
+The count after hash: 84
+The count of al2: 84
+The count of hash: 78
+The count after hash: 78
+The count after consolidation: 78
+00:01:12.0827299
